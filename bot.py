@@ -5,7 +5,7 @@ import os
 import requests
 
 # Telegram Bot Token
-BOT_TOKEN = "8805502590:AAHj45cO2uY_TetaAtFukQMVv2XHZkrmxa8"
+BOT_TOKEN = "
 bot = telebot.TeleBot(BOT_TOKEN)
 
 try:
